@@ -10,5 +10,5 @@ When kafka is running three topics are created:
     
 MSK Connect is used to to connect the cluster and S3 bucket so that any data passing throught the cluster is stored in the s3 bucket. For this a custom plugin and connector had to be created in the MSK connect. 
 
-
+milestone
 
